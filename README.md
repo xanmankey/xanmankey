@@ -1,5 +1,5 @@
 # App developer | Web developer | Game developer | Researcher | AI enthusiast | Musician > me.txt
-Salutations! I'm a Computer Science student at Purdue University with interests in programming, music, and entrepreneurship. You can check out some of my projects or profiles below! I'm open to collaborations, so feel free to reach out or just contribute if you would like to work on a project together!
+Salutations! My name is Alexander Kutulas and I'm a Computer Science student at Purdue University with interests in programming, music, and entrepreneurship. You can check out some of my projects or profiles below! I'm open to collaborations, so feel free to reach out or just contribute if you would like to work on a project together!
 
 ## Projects
 - FishingForPhish (https://github.com/xanmankey/FishingForPhish)
