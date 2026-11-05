@@ -7,4 +7,5 @@ Salutations! I'm a Computer Science student at Purdue University with interests 
 - Gaming Chair (https://github.com/xanmankey/GameControllerChair): Built a chair - that is ALSO a game controller!
 - Fishing For Phish (https://github.com/xanmankey/FishingForPhish/blob/main/initialResearch/FishingForPhish.pdf): Machine Learning Research - using web-based features for phishing detection.
 - WiiMix (https://github.com/WiiMake/WiiMix): a fork of Dolphin Emulator built around shuffling games and states for an unpredictable, exiciting gaming experience
+- Wii Baton (https://github.com/xanmankey/Wii-Baton): a project to control Wii games - by running! Featured in the Sighorse journal at https://sig.horse/.
 - And more!
